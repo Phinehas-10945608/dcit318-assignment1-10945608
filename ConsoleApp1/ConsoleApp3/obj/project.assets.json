@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phine\\source\\repos\\dcit318-assignment1-10945608\\ConsoleApp1\\ConsoleApp3\\ConsoleApp3.csproj",
-      "projectName": "ConsoleApp3",
-      "projectPath": "C:\\Users\\phine\\source\\repos\\dcit318-assignment1-10945608\\ConsoleApp1\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectUniqueName": "C:\\Users\\phine\\source\\repos\\dcit318-assignment1-10945608\\ConsoleApp1\\ConsoleApp3\\TriangleTypeIdentifier.csproj",
+      "projectName": "TriangleTypeIdentifier",
+      "projectPath": "C:\\Users\\phine\\source\\repos\\dcit318-assignment1-10945608\\ConsoleApp1\\ConsoleApp3\\TriangleTypeIdentifier.csproj",
       "packagesPath": "C:\\Users\\phine\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\phine\\source\\repos\\dcit318-assignment1-10945608\\ConsoleApp1\\ConsoleApp3\\obj\\",
       "projectStyle": "PackageReference",

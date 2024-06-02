@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phine\\source\\repos\\dcit318-assignment1-10945608\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj",
-      "projectName": "ConsoleApp2",
-      "projectPath": "C:\\Users\\phine\\source\\repos\\dcit318-assignment1-10945608\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\Users\\phine\\source\\repos\\dcit318-assignment1-10945608\\ConsoleApp1\\ConsoleApp2\\TicketPriceCalculator.csproj",
+      "projectName": "TicketPriceCalculator",
+      "projectPath": "C:\\Users\\phine\\source\\repos\\dcit318-assignment1-10945608\\ConsoleApp1\\ConsoleApp2\\TicketPriceCalculator.csproj",
       "packagesPath": "C:\\Users\\phine\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\phine\\source\\repos\\dcit318-assignment1-10945608\\ConsoleApp1\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
